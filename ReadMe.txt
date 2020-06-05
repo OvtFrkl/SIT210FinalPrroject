@@ -11,7 +11,9 @@ I can also provide my tracking document notes if requested. It is around 3600 wo
 Now, onto the installation steps using the source code. 
 The testing phase and the brake down gives the overview of the process sequence that I followed. For this section. I will provide details on the scripts that you need to run, in order, and parts you need to change for your own set up. 
 
+
 INSTALLATION STEPS 
+
 •	Step 1 – initial set up
 Ensure you have your Raspberry Pi B 3+ uptodate. 
 Argon is connected to WIFI. 
